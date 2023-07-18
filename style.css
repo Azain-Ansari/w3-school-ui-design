@@ -1,0 +1,118 @@
+h1{
+    
+    display:inline;
+    margin: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: 25px;
+    margin-bottom: -10px;
+    
+    color: #ffffff;
+    
+}
+
+
+
+.login{
+    background-color: #04AA6D;
+    color: white;
+    border-radius: 45px;
+    padding-bottom:10px;
+  padding-top: 10px;
+
+}
+.login:hover{
+    background-color: #04AA6D(120, 100%, 25%);
+    color: #ffffff ;
+}
+a{
+     text-decoration: none;  
+     color: black;
+}
+
+.p{
+    word-spacing: 5px;
+    font-size:60px;
+    text-align: center;
+    
+}
+div{
+    background-color:  #282A35;
+    color: #ffff;
+    padding-top: 180px;
+    text-align: center;
+    padding-bottom: 180px;
+    margin-top: -5px;
+
+}
+p{
+    font-size: 25px;
+    color: palevioletred;
+}
+.last{
+    color: #ffff;
+    font-size: 25px;
+    
+}
+.last:hover{
+    color: green;
+}
+.menu{
+    color: black;
+    font-size: 20px;
+    padding-top: 20px;
+    white-space: -10px;
+    padding-bottom: 15px;
+    width: 20px;
+    margin-left: 0px 10px 0px 0px;
+}
+.menu:hover{
+    background-color: #04AA6D;
+    color: #ffff;
+    
+}
+.upgrade{
+  background-color: #000000;
+  color: #ffffff;
+  border-radius: 25px;
+  margin-top: auto;
+  padding-bottom:10px;
+  padding-top: 10px;
+  margin-left: 95px;
+}
+.create{
+ background-color: rgb(239, 255, 21);
+ color: #ffffff;
+ border-radius: 25px;
+ padding-bottom:10px;
+  padding-top: 10px;
+
+}
+.get{
+ background-color: #e692ae;
+ color: #000000;
+ border-radius: 25px;
+ padding-bottom:10px;
+  padding-top: 10px;
+}
+input{
+ padding: 15px 10px 15px 45px;
+ border: #ffffff;
+ border-radius: 15px;
+ border-radius: 15px 0px 0px 15px;
+ width: 400px;
+}
+.button{
+    
+    margin-left:-6px;
+    border-radius: 0px 15px 15px 0px;
+    width: 130px;
+    background-color: #04AA6D;
+  
+}
+
+.up{
+    color: white;
+}
+
+
